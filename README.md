@@ -7,14 +7,14 @@ The library is available via Cocapods or Swift Package Manager. You can also add
 ### Cocoapods
 
 Add dependency to your Podfile\
-`pod EuvicMobileSDK`
+`pod EuvicMobileSDK, '~> 1.0'`
 
 ### Swift Package Manager
 Once you have your Swift package set up, adding EuvicMobileSDK as a dependency is as easy as adding it to the dependencies value of your Package.swift.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Clickonometrics/reporting-sdk-ios.git", .upToNextMajor(from: "0.2.0"))
+    .package(url: "https://github.com/Clickonometrics/reporting-sdk-ios.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
@@ -188,3 +188,4 @@ Represents a product instance
 | `price` | String | represents products value | Required |
 | `currency` | String | represents products price currency | Optional |
 | `quantity` | String | depending on type of event, it can represents added, removed or in basket quantity of the product | Required |
+

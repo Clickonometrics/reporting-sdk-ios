@@ -72,6 +72,43 @@
         "moduleName": "EuvicMobileSDK"
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "EuvicMobile",
         "printedName": "EuvicMobile",
@@ -772,23 +809,6 @@
           "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreLocation",
-        "printedName": "CoreLocation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK"
       },
       {
         "kind": "Import",
@@ -1812,6 +1832,77 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EuvicMobileSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "EuvicMobileSDK"
       },
       {
@@ -1820,97 +1911,6 @@
         "printedName": "SystemConfiguration",
         "declKind": "Import",
         "moduleName": "EuvicMobileSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "EuvicMobileSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -2132,648 +2132,648 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/BrowsedCategoryEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/BrowsedCategoryEvent.swift",
       "kind": "StringLiteral",
       "offset": 588,
       "length": 15,
       "value": "\"category_name\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/BrowsedCategoryEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/BrowsedCategoryEvent.swift",
       "kind": "StringLiteral",
       "offset": 588,
       "length": 15,
       "value": "\"category_name\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 2209,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 2641,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 3110,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 3588,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 4123,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 4592,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 4955,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
-      "kind": "Dictionary",
-      "offset": 5768,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Location\/LocationService.swift",
-      "kind": "BooleanLiteral",
-      "offset": 377,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Location\/LocationService.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
       "kind": "StringLiteral",
-      "offset": 490,
-      "length": 37,
-      "value": "\"EuvicMobileSDK: Location did change\""
+      "offset": 576,
+      "length": 15,
+      "value": "\"battery_level\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Location\/LocationService.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
       "kind": "StringLiteral",
-      "offset": 561,
-      "length": 9,
-      "value": "\"unknown\""
+      "offset": 622,
+      "length": 17,
+      "value": "\"connection_type\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
+      "kind": "StringLiteral",
+      "offset": 664,
+      "length": 10,
+      "value": "\"location\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
+      "kind": "StringLiteral",
+      "offset": 576,
+      "length": 15,
+      "value": "\"battery_level\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
+      "kind": "StringLiteral",
+      "offset": 622,
+      "length": 17,
+      "value": "\"connection_type\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
+      "kind": "StringLiteral",
+      "offset": 664,
+      "length": 10,
+      "value": "\"location\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 2529,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 2961,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 3430,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 3908,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 4443,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 4912,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 5275,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobile.swift",
+      "kind": "Dictionary",
+      "offset": 6088,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 395,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 579,
       "length": 5,
       "value": "\"EUR\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 627,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 849,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileProduct.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileProduct.swift",
       "kind": "StringLiteral",
       "offset": 542,
       "length": 11,
       "value": "\"in_basket\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileProduct.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Public\/EuvicMobileProduct.swift",
       "kind": "StringLiteral",
       "offset": 542,
       "length": 11,
       "value": "\"in_basket\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 18,
       "value": "\"homepage_visited\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 17,
       "value": "\"product_browsed\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 322,
       "length": 15,
       "value": "\"product_added\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 17,
       "value": "\"product_removed\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 409,
       "length": 18,
       "value": "\"browsed_category\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 444,
       "length": 6,
       "value": "\"cart\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 475,
       "length": 15,
       "value": "\"order_started\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 518,
       "length": 18,
       "value": "\"products_ordered\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 18,
       "value": "\"homepage_visited\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 17,
       "value": "\"product_browsed\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 322,
       "length": 15,
       "value": "\"product_added\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 17,
       "value": "\"product_removed\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 409,
       "length": 18,
       "value": "\"browsed_category\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 444,
       "length": 6,
       "value": "\"cart\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 475,
       "length": 15,
       "value": "\"order_started\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Base\/EventType.swift",
       "kind": "StringLiteral",
       "offset": 518,
       "length": 18,
       "value": "\"products_ordered\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Reachability\/NetworkReachabilityManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4116,
-      "length": 33,
-      "value": "\"org.alamofire.reachabilityQueue\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 779,
       "length": 14,
       "value": "\"CFBundleName\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 964,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1163,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1517,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1544,
       "length": 6,
       "value": "\"time\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1577,
       "length": 13,
       "value": "\"device_make\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1618,
       "length": 14,
       "value": "\"device_model\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1662,
       "length": 16,
       "value": "\"device_version\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1711,
       "length": 12,
       "value": "\"device_res\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1748,
       "length": 11,
       "value": "\"device_ip\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1781,
       "length": 8,
       "value": "\"app_id\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1813,
       "length": 10,
       "value": "\"app_name\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1850,
       "length": 13,
       "value": "\"app_version\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1890,
       "length": 13,
       "value": "\"lib_version\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1934,
       "length": 17,
       "value": "\"system_language\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1974,
       "length": 8,
       "value": "\"custom\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1517,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1544,
       "length": 6,
       "value": "\"time\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1577,
       "length": 13,
       "value": "\"device_make\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1618,
       "length": 14,
       "value": "\"device_model\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1662,
       "length": 16,
       "value": "\"device_version\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1711,
       "length": 12,
       "value": "\"device_res\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1748,
       "length": 11,
       "value": "\"device_ip\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1781,
       "length": 8,
       "value": "\"app_id\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1813,
       "length": 10,
       "value": "\"app_name\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1850,
       "length": 13,
       "value": "\"app_version\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1890,
       "length": 13,
       "value": "\"lib_version\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1934,
       "length": 17,
       "value": "\"system_language\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/HomepageVisitedEvent.swift",
       "kind": "StringLiteral",
       "offset": 1974,
       "length": 8,
       "value": "\"custom\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
-      "kind": "StringLiteral",
-      "offset": 576,
-      "length": 15,
-      "value": "\"battery_level\""
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Location\/LocationService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 377,
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Location\/LocationService.swift",
       "kind": "StringLiteral",
-      "offset": 622,
-      "length": 17,
-      "value": "\"connection_type\""
+      "offset": 490,
+      "length": 37,
+      "value": "\"EuvicMobileSDK: Location did change\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Location\/LocationService.swift",
       "kind": "StringLiteral",
-      "offset": 664,
-      "length": 10,
-      "value": "\"location\""
+      "offset": 561,
+      "length": 9,
+      "value": "\"unknown\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
-      "kind": "StringLiteral",
-      "offset": 576,
-      "length": 15,
-      "value": "\"battery_level\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
-      "kind": "StringLiteral",
-      "offset": 622,
-      "length": 17,
-      "value": "\"connection_type\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/Parameters\/DefaultCustomEventParameters.swift",
-      "kind": "StringLiteral",
-      "offset": 664,
-      "length": 10,
-      "value": "\"location\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Utils\/PrintDebug.swift",
-      "kind": "StringLiteral",
-      "offset": 232,
-      "length": 3,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Utils\/PrintDebug.swift",
-      "kind": "StringLiteral",
-      "offset": 258,
-      "length": 4,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Networking\/NetworkQueue.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Networking\/NetworkQueue.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 26,
       "value": "\"euvic_mobile_event_queue\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Networking\/NetworkQueue.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Networking\/NetworkQueue.swift",
       "kind": "Array",
       "offset": 266,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductBrowsedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Reachability\/NetworkReachabilityManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4116,
+      "length": 33,
+      "value": "\"org.alamofire.reachabilityQueue\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Utils\/PrintDebug.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Utils\/PrintDebug.swift",
+      "kind": "StringLiteral",
+      "offset": 258,
+      "length": 4,
+      "value": "\"\n\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductBrowsedEvent.swift",
       "kind": "StringLiteral",
       "offset": 613,
       "length": 11,
       "value": "\"in_basket\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductBrowsedEvent.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductBrowsedEvent.swift",
       "kind": "StringLiteral",
       "offset": 613,
       "length": 11,
       "value": "\"in_basket\""
     },
     {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Reachability\/ReachabilityService.swift",
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 621,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 648,
+      "length": 6,
+      "value": "\"time\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 678,
+      "length": 7,
+      "value": "\"order\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 710,
+      "length": 12,
+      "value": "\"sale_value\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 747,
+      "length": 10,
+      "value": "\"products\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 782,
+      "length": 10,
+      "value": "\"currency\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 815,
+      "length": 8,
+      "value": "\"custom\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 621,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 648,
+      "length": 6,
+      "value": "\"time\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 678,
+      "length": 7,
+      "value": "\"order\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 710,
+      "length": 12,
+      "value": "\"sale_value\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 747,
+      "length": 10,
+      "value": "\"products\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 782,
+      "length": 10,
+      "value": "\"currency\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 815,
+      "length": 8,
+      "value": "\"custom\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/sUoR92i-\/0\/euvic-ad-sdk\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Service\/Reachability\/ReachabilityService.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 46,
       "value": "\"EuvicMobileSDK: Connection status did change\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 621,
-      "length": 6,
-      "value": "\"type\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 648,
-      "length": 6,
-      "value": "\"time\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 678,
-      "length": 7,
-      "value": "\"order\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 710,
-      "length": 12,
-      "value": "\"sale_value\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 747,
-      "length": 10,
-      "value": "\"products\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 782,
-      "length": 10,
-      "value": "\"currency\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 815,
-      "length": 8,
-      "value": "\"custom\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 621,
-      "length": 6,
-      "value": "\"type\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 648,
-      "length": 6,
-      "value": "\"time\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 678,
-      "length": 7,
-      "value": "\"order\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 710,
-      "length": 12,
-      "value": "\"sale_value\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 747,
-      "length": 10,
-      "value": "\"products\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 782,
-      "length": 10,
-      "value": "\"currency\""
-    },
-    {
-      "filePath": "\/Users\/kamil\/Work\/EuvicSDK\/euvic-sdk-ios\/EuvicMobileSDK\/EuvicSDK\/Sources\/Event\/ProductsOrderedEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 815,
-      "length": 8,
-      "value": "\"custom\""
     }
   ]
 }
